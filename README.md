@@ -1,2 +1,3 @@
-# paloma
-An columnar-stagger single-piece keyboard.
+# Lechuza (owl)
+
+A columnar-stagger single-piece keyboard.
